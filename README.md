@@ -61,8 +61,4 @@ Identificar, cuantificar y diagnosticar las causas de la contracción comercial 
 3. Sube el archivo Excel `DATASET_AUTOMOTRIZ_450_REGISTROS_2024_2026.xlsx` al panel lateral izquierdo de archivos en Colab.
 4. Ejecuta las celdas secuencialmente presionando `Shift + Enter` o desde **Entorno de ejecución** > **Ejecutar todas**.
 
-### Opción 2: En Entorno Local
-1. Clona este repositorio público:
-   ```bash
-   git clone <URL_DE_TU_REPOSITORIO>
-   cd <NOMBRE_DEL_REPOSITORIO>
+
